@@ -1,0 +1,1210 @@
+{
+  "metadata": {
+    "level": "JLPT N5",
+    "total": 80,
+    "description": "80 Kanji cơ bản JLPT N5",
+    "version": "1.0"
+  },
+  "kanji": [
+    {
+      "id": 1,
+      "char": "日",
+      "onyomi": "ニチ、ジツ",
+      "kunyomi": "ひ、か",
+      "romaji": "nichi, jitsu / hi, ka",
+      "nghia_vi": "mặt trời, ngày",
+      "vi_du": [
+        {"tu": "日本", "doc": "にほん", "nghia": "Nhật Bản"},
+        {"tu": "日曜日", "doc": "にちようび", "nghia": "Chủ nhật"},
+        {"tu": "今日", "doc": "きょう", "nghia": "hôm nay"}
+      ],
+      "so_net": 4,
+      "meo": "Hình chữ nhật giống mặt trời với đường kẻ giữa"
+    },
+    {
+      "id": 2,
+      "char": "月",
+      "onyomi": "ゲツ、ガツ",
+      "kunyomi": "つき",
+      "romaji": "getsu, gatsu / tsuki",
+      "nghia_vi": "mặt trăng, tháng",
+      "vi_du": [
+        {"tu": "月曜日", "doc": "げつようび", "nghia": "Thứ hai"},
+        {"tu": "今月", "doc": "こんげつ", "nghia": "tháng này"},
+        {"tu": "月見", "doc": "つきみ", "nghia": "ngắm trăng"}
+      ],
+      "so_net": 4,
+      "meo": "Giống chữ 日 nhưng có 2 nét ngang không chạm viền"
+    },
+    {
+      "id": 3,
+      "char": "火",
+      "onyomi": "カ",
+      "kunyomi": "ひ",
+      "romaji": "ka / hi",
+      "nghia_vi": "lửa",
+      "vi_du": [
+        {"tu": "火曜日", "doc": "かようび", "nghia": "Thứ ba"},
+        {"tu": "火山", "doc": "かざん", "nghia": "núi lửa"},
+        {"tu": "花火", "doc": "はなび", "nghia": "pháo hoa"}
+      ],
+      "so_net": 4,
+      "meo": "Hình ngọn lửa với 2 chấm hai bên"
+    },
+    {
+      "id": 4,
+      "char": "水",
+      "onyomi": "スイ",
+      "kunyomi": "みず",
+      "romaji": "sui / mizu",
+      "nghia_vi": "nước",
+      "vi_du": [
+        {"tu": "水曜日", "doc": "すいようび", "nghia": "Thứ tư"},
+        {"tu": "水泳", "doc": "すいえい", "nghia": "bơi lội"},
+        {"tu": "お水", "doc": "おみず", "nghia": "nước uống"}
+      ],
+      "so_net": 4,
+      "meo": "Nét giữa thẳng, 2 bên cong như dòng nước chảy"
+    },
+    {
+      "id": 5,
+      "char": "木",
+      "onyomi": "モク、ボク",
+      "kunyomi": "き、こ",
+      "romaji": "moku, boku / ki, ko",
+      "nghia_vi": "cây, gỗ",
+      "vi_du": [
+        {"tu": "木曜日", "doc": "もくようび", "nghia": "Thứ năm"},
+        {"tu": "木村", "doc": "きむら", "nghia": "họ Kimura"},
+        {"tu": "木材", "doc": "もくざい", "nghia": "gỗ vật liệu"}
+      ],
+      "so_net": 4,
+      "meo": "Hình cây với thân đứng, nhánh ngang và rễ hai bên"
+    },
+    {
+      "id": 6,
+      "char": "金",
+      "onyomi": "キン、コン",
+      "kunyomi": "かね、かな",
+      "romaji": "kin, kon / kane, kana",
+      "nghia_vi": "vàng, tiền, kim loại",
+      "vi_du": [
+        {"tu": "金曜日", "doc": "きんようび", "nghia": "Thứ sáu"},
+        {"tu": "お金", "doc": "おかね", "nghia": "tiền"},
+        {"tu": "金色", "doc": "きんいろ", "nghia": "màu vàng"}
+      ],
+      "so_net": 8,
+      "meo": "Phần trên là 人 (người), phần dưới là 土 (đất)"
+    },
+    {
+      "id": 7,
+      "char": "土",
+      "onyomi": "ド、ト",
+      "kunyomi": "つち",
+      "romaji": "do, to / tsuchi",
+      "nghia_vi": "đất",
+      "vi_du": [
+        {"tu": "土曜日", "doc": "どようび", "nghia": "Thứ bảy"},
+        {"tu": "土地", "doc": "とち", "nghia": "đất đai"},
+        {"tu": "土台", "doc": "どだい", "nghia": "nền móng"}
+      ],
+      "so_net": 3,
+      "meo": "2 nét ngang và 1 nét đứng giữa"
+    },
+    {
+      "id": 8,
+      "char": "山",
+      "onyomi": "サン",
+      "kunyomi": "やま",
+      "romaji": "san / yama",
+      "nghia_vi": "núi",
+      "vi_du": [
+        {"tu": "山田", "doc": "やまだ", "nghia": "họ Yamada"},
+        {"tu": "富士山", "doc": "ふじさん", "nghia": "núi Phú Sĩ"},
+        {"tu": "山登り", "doc": "やまのぼり", "nghia": "leo núi"}
+      ],
+      "so_net": 3,
+      "meo": "3 đỉnh núi, đỉnh giữa cao nhất"
+    },
+    {
+      "id": 9,
+      "char": "川",
+      "onyomi": "セン",
+      "kunyomi": "かわ",
+      "romaji": "sen / kawa",
+      "nghia_vi": "sông",
+      "vi_du": [
+        {"tu": "川田", "doc": "かわだ", "nghia": "họ Kawada"},
+        {"tu": "小川", "doc": "おがわ", "nghia": "con suối"},
+        {"tu": "川岸", "doc": "かわぎし", "nghia": "bờ sông"}
+      ],
+      "so_net": 3,
+      "meo": "3 nét đứng tượng trưng cho dòng nước chảy"
+    },
+    {
+      "id": 10,
+      "char": "田",
+      "onyomi": "デン",
+      "kunyomi": "た",
+      "romaji": "den / ta",
+      "nghia_vi": "ruộng lúa",
+      "vi_du": [
+        {"tu": "田中", "doc": "たなか", "nghia": "họ Tanaka"},
+        {"tu": "田舎", "doc": "いなか", "nghia": "vùng quê"},
+        {"tu": "水田", "doc": "すいでん", "nghia": "ruộng lúa nước"}
+      ],
+      "so_net": 5,
+      "meo": "Hình ô ruộng chia thành 4 phần"
+    },
+    {
+      "id": 11,
+      "char": "人",
+      "onyomi": "ジン、ニン",
+      "kunyomi": "ひと",
+      "romaji": "jin, nin / hito",
+      "nghia_vi": "người",
+      "vi_du": [
+        {"tu": "日本人", "doc": "にほんじん", "nghia": "người Nhật"},
+        {"tu": "人気", "doc": "にんき", "nghia": "nổi tiếng"},
+        {"tu": "人々", "doc": "ひとびと", "nghia": "mọi người"}
+      ],
+      "so_net": 2,
+      "meo": "2 nét tượng trưng người đứng nhìn nghiêng"
+    },
+    {
+      "id": 12,
+      "char": "大",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "おお",
+      "romaji": "dai, tai / oo",
+      "nghia_vi": "lớn, to",
+      "vi_du": [
+        {"tu": "大学", "doc": "だいがく", "nghia": "đại học"},
+        {"tu": "大切", "doc": "たいせつ", "nghia": "quan trọng"},
+        {"tu": "大人", "doc": "おとな", "nghia": "người lớn"}
+      ],
+      "so_net": 3,
+      "meo": "Người (人) với 2 tay dang rộng = to lớn"
+    },
+    {
+      "id": 13,
+      "char": "小",
+      "onyomi": "ショウ",
+      "kunyomi": "ちい、こ、お",
+      "romaji": "shou / chii, ko, o",
+      "nghia_vi": "nhỏ, bé",
+      "vi_du": [
+        {"tu": "小学校", "doc": "しょうがっこう", "nghia": "trường tiểu học"},
+        {"tu": "小さい", "doc": "ちいさい", "nghia": "nhỏ bé"},
+        {"tu": "小説", "doc": "しょうせつ", "nghia": "tiểu thuyết"}
+      ],
+      "so_net": 3,
+      "meo": "1 nét đứng giữa và 2 chấm hai bên = nhỏ"
+    },
+    {
+      "id": 14,
+      "char": "中",
+      "onyomi": "チュウ",
+      "kunyomi": "なか",
+      "romaji": "chuu / naka",
+      "nghia_vi": "giữa, trong",
+      "vi_du": [
+        {"tu": "中国", "doc": "ちゅうごく", "nghia": "Trung Quốc"},
+        {"tu": "中学校", "doc": "ちゅうがっこう", "nghia": "trường THCS"},
+        {"tu": "中心", "doc": "ちゅうしん", "nghia": "trung tâm"}
+      ],
+      "so_net": 4,
+      "meo": "Hình chữ nhật với nét đứng xuyên qua giữa"
+    },
+    {
+      "id": 15,
+      "char": "上",
+      "onyomi": "ジョウ、ショウ",
+      "kunyomi": "うえ、あ、のぼ",
+      "romaji": "jou, shou / ue, a, nobo",
+      "nghia_vi": "trên, lên",
+      "vi_du": [
+        {"tu": "上手", "doc": "じょうず", "nghia": "giỏi, khéo"},
+        {"tu": "上がる", "doc": "あがる", "nghia": "đi lên"},
+        {"tu": "以上", "doc": "いじょう", "nghia": "trở lên, hơn"}
+      ],
+      "so_net": 3,
+      "meo": "Nét ngang dài ở trên, nét ngắn ở dưới = trên"
+    },
+    {
+      "id": 16,
+      "char": "下",
+      "onyomi": "カ、ゲ",
+      "kunyomi": "した、さ、くだ",
+      "romaji": "ka, ge / shita, sa, kuda",
+      "nghia_vi": "dưới, xuống",
+      "vi_du": [
+        {"tu": "下手", "doc": "へた", "nghia": "vụng về"},
+        {"tu": "下がる", "doc": "さがる", "nghia": "đi xuống"},
+        {"tu": "地下", "doc": "ちか", "nghia": "dưới đất"}
+      ],
+      "so_net": 3,
+      "meo": "Nét ngang dài ở trên, chấm ở dưới = dưới"
+    },
+    {
+      "id": 17,
+      "char": "国",
+      "onyomi": "コク",
+      "kunyomi": "くに",
+      "romaji": "koku / kuni",
+      "nghia_vi": "đất nước, quốc gia",
+      "vi_du": [
+        {"tu": "外国", "doc": "がいこく", "nghia": "nước ngoài"},
+        {"tu": "国語", "doc": "こくご", "nghia": "quốc ngữ"},
+        {"tu": "国民", "doc": "こくみん", "nghia": "nhân dân"}
+      ],
+      "so_net": 8,
+      "meo": "Chữ 王 (vua) trong khung = quốc gia"
+    },
+    {
+      "id": 18,
+      "char": "年",
+      "onyomi": "ネン",
+      "kunyomi": "とし",
+      "romaji": "nen / toshi",
+      "nghia_vi": "năm",
+      "vi_du": [
+        {"tu": "今年", "doc": "ことし", "nghia": "năm nay"},
+        {"tu": "来年", "doc": "らいねん", "nghia": "năm sau"},
+        {"tu": "年齢", "doc": "ねんれい", "nghia": "tuổi tác"}
+      ],
+      "so_net": 6,
+      "meo": "Phần trên như mũi tên, phần dưới như十"
+    },
+    {
+      "id": 19,
+      "char": "学",
+      "onyomi": "ガク",
+      "kunyomi": "まな",
+      "romaji": "gaku / mana",
+      "nghia_vi": "học, khoa học",
+      "vi_du": [
+        {"tu": "学校", "doc": "がっこう", "nghia": "trường học"},
+        {"tu": "大学", "doc": "だいがく", "nghia": "đại học"},
+        {"tu": "学生", "doc": "がくせい", "nghia": "học sinh/sinh viên"}
+      ],
+      "so_net": 8,
+      "meo": "Phần trên là bàn tay, phần dưới là đứa trẻ (子)"
+    },
+    {
+      "id": 20,
+      "char": "生",
+      "onyomi": "セイ、ショウ",
+      "kunyomi": "い、う、は、き",
+      "romaji": "sei, shou / i, u, ha, ki",
+      "nghia_vi": "sống, sinh ra",
+      "vi_du": [
+        {"tu": "学生", "doc": "がくせい", "nghia": "học sinh"},
+        {"tu": "先生", "doc": "せんせい", "nghia": "giáo viên"},
+        {"tu": "生活", "doc": "せいかつ", "nghia": "cuộc sống"}
+      ],
+      "so_net": 5,
+      "meo": "Cây cỏ mọc lên từ đất"
+    },
+    {
+      "id": 21,
+      "char": "先",
+      "onyomi": "セン",
+      "kunyomi": "さき",
+      "romaji": "sen / saki",
+      "nghia_vi": "trước, đầu tiên",
+      "vi_du": [
+        {"tu": "先生", "doc": "せんせい", "nghia": "giáo viên"},
+        {"tu": "先週", "doc": "せんしゅう", "nghia": "tuần trước"},
+        {"tu": "先月", "doc": "せんげつ", "nghia": "tháng trước"}
+      ],
+      "so_net": 6,
+      "meo": "Phần trên là 土, phần dưới là 儿 (chân người)"
+    },
+    {
+      "id": 22,
+      "char": "本",
+      "onyomi": "ホン",
+      "kunyomi": "もと",
+      "romaji": "hon / moto",
+      "nghia_vi": "sách, gốc, Nhật Bản",
+      "vi_du": [
+        {"tu": "日本", "doc": "にほん", "nghia": "Nhật Bản"},
+        {"tu": "本屋", "doc": "ほんや", "nghia": "hiệu sách"},
+        {"tu": "基本", "doc": "きほん", "nghia": "cơ bản"}
+      ],
+      "so_net": 5,
+      "meo": "Cây (木) có thêm nét ở gốc = gốc rễ"
+    },
+    {
+      "id": 23,
+      "char": "語",
+      "onyomi": "ゴ",
+      "kunyomi": "かた",
+      "romaji": "go / kata",
+      "nghia_vi": "ngôn ngữ, lời nói",
+      "vi_du": [
+        {"tu": "日本語", "doc": "にほんご", "nghia": "tiếng Nhật"},
+        {"tu": "英語", "doc": "えいご", "nghia": "tiếng Anh"},
+        {"tu": "語学", "doc": "ごがく", "nghia": "học ngôn ngữ"}
+      ],
+      "so_net": 14,
+      "meo": "Bộ 言 (lời nói) + 吾 (tôi) = ngôn ngữ"
+    },
+    {
+      "id": 24,
+      "char": "目",
+      "onyomi": "モク、ボク",
+      "kunyomi": "め、ま",
+      "romaji": "moku, boku / me, ma",
+      "nghia_vi": "mắt",
+      "vi_du": [
+        {"tu": "目標", "doc": "もくひょう", "nghia": "mục tiêu"},
+        {"tu": "目玉", "doc": "めだま", "nghia": "nhãn cầu"},
+        {"tu": "一目", "doc": "ひとめ", "nghia": "một cái nhìn"}
+      ],
+      "so_net": 5,
+      "meo": "Hình con mắt nhìn thẳng"
+    },
+    {
+      "id": 25,
+      "char": "口",
+      "onyomi": "コウ、ク",
+      "kunyomi": "くち",
+      "romaji": "kou, ku / kuchi",
+      "nghia_vi": "miệng, cửa",
+      "vi_du": [
+        {"tu": "入口", "doc": "いりぐち", "nghia": "lối vào"},
+        {"tu": "出口", "doc": "でぐち", "nghia": "lối ra"},
+        {"tu": "口座", "doc": "こうざ", "nghia": "tài khoản ngân hàng"}
+      ],
+      "so_net": 3,
+      "meo": "Hình cái miệng hình chữ nhật"
+    },
+    {
+      "id": 26,
+      "char": "手",
+      "onyomi": "シュ",
+      "kunyomi": "て",
+      "romaji": "shu / te",
+      "nghia_vi": "tay",
+      "vi_du": [
+        {"tu": "上手", "doc": "じょうず", "nghia": "giỏi"},
+        {"tu": "下手", "doc": "へた", "nghia": "vụng"},
+        {"tu": "手紙", "doc": "てがみ", "nghia": "thư"}
+      ],
+      "so_net": 4,
+      "meo": "Hình bàn tay với các ngón tay"
+    },
+    {
+      "id": 27,
+      "char": "足",
+      "onyomi": "ソク",
+      "kunyomi": "あし、た",
+      "romaji": "soku / ashi, ta",
+      "nghia_vi": "chân, đủ",
+      "vi_du": [
+        {"tu": "足りる", "doc": "たりる", "nghia": "đủ"},
+        {"tu": "遠足", "doc": "えんそく", "nghia": "dã ngoại"},
+        {"tu": "土足", "doc": "どそく", "nghia": "giày dép"}
+      ],
+      "so_net": 7,
+      "meo": "Phần trên là 口, phần dưới là nét chân"
+    },
+    {
+      "id": 28,
+      "char": "耳",
+      "onyomi": "ジ",
+      "kunyomi": "みみ",
+      "romaji": "ji / mimi",
+      "nghia_vi": "tai",
+      "vi_du": [
+        {"tu": "耳鼻科", "doc": "じびか", "nghia": "khoa tai mũi"},
+        {"tu": "耳元", "doc": "みみもと", "nghia": "bên tai"},
+        {"tu": "早耳", "doc": "はやみみ", "nghia": "thính tai"}
+      ],
+      "so_net": 6,
+      "meo": "Hình cái tai với các đường ngang"
+    },
+    {
+      "id": 29,
+      "char": "女",
+      "onyomi": "ジョ、ニョ",
+      "kunyomi": "おんな、め",
+      "romaji": "jo, nyo / onna, me",
+      "nghia_vi": "phụ nữ, con gái",
+      "vi_du": [
+        {"tu": "女性", "doc": "じょせい", "nghia": "phụ nữ"},
+        {"tu": "女の子", "doc": "おんなのこ", "nghia": "bé gái"},
+        {"tu": "女王", "doc": "じょおう", "nghia": "nữ hoàng"}
+      ],
+      "so_net": 3,
+      "meo": "Hình người phụ nữ ngồi gập người"
+    },
+    {
+      "id": 30,
+      "char": "男",
+      "onyomi": "ダン、ナン",
+      "kunyomi": "おとこ",
+      "romaji": "dan, nan / otoko",
+      "nghia_vi": "đàn ông, con trai",
+      "vi_du": [
+        {"tu": "男性", "doc": "だんせい", "nghia": "đàn ông"},
+        {"tu": "男の子", "doc": "おとこのこ", "nghia": "bé trai"},
+        {"tu": "長男", "doc": "ちょうなん", "nghia": "con trai trưởng"}
+      ],
+      "so_net": 7,
+      "meo": "Ruộng (田) + sức (力) = đàn ông làm ruộng"
+    },
+    {
+      "id": 31,
+      "char": "子",
+      "onyomi": "シ、ス",
+      "kunyomi": "こ、ね",
+      "romaji": "shi, su / ko, ne",
+      "nghia_vi": "đứa trẻ, con",
+      "vi_du": [
+        {"tu": "子供", "doc": "こども", "nghia": "trẻ em"},
+        {"tu": "女子", "doc": "じょし", "nghia": "nữ sinh"},
+        {"tu": "男子", "doc": "だんし", "nghia": "nam sinh"}
+      ],
+      "so_net": 3,
+      "meo": "Hình đứa bé với đầu to và tay dang ra"
+    },
+    {
+      "id": 32,
+      "char": "父",
+      "onyomi": "フ",
+      "kunyomi": "ちち",
+      "romaji": "fu / chichi",
+      "nghia_vi": "cha, bố",
+      "vi_du": [
+        {"tu": "父親", "doc": "ちちおや", "nghia": "người cha"},
+        {"tu": "父母", "doc": "ふぼ", "nghia": "cha mẹ"},
+        {"tu": "祖父", "doc": "そふ", "nghia": "ông nội/ngoại"}
+      ],
+      "so_net": 4,
+      "meo": "Người cầm gậy = cha (người đàn ông quyền uy)"
+    },
+    {
+      "id": 33,
+      "char": "母",
+      "onyomi": "ボ",
+      "kunyomi": "はは",
+      "romaji": "bo / haha",
+      "nghia_vi": "mẹ",
+      "vi_du": [
+        {"tu": "母親", "doc": "ははおや", "nghia": "người mẹ"},
+        {"tu": "父母", "doc": "ふぼ", "nghia": "cha mẹ"},
+        {"tu": "祖母", "doc": "そぼ", "nghia": "bà nội/ngoại"}
+      ],
+      "so_net": 5,
+      "meo": "Chữ 女 với 2 chấm = ngực mẹ cho con bú"
+    },
+    {
+      "id": 34,
+      "char": "友",
+      "onyomi": "ユウ",
+      "kunyomi": "とも",
+      "romaji": "yuu / tomo",
+      "nghia_vi": "bạn bè",
+      "vi_du": [
+        {"tu": "友達", "doc": "ともだち", "nghia": "bạn bè"},
+        {"tu": "友人", "doc": "ゆうじん", "nghia": "bạn"},
+        {"tu": "親友", "doc": "しんゆう", "nghia": "bạn thân"}
+      ],
+      "so_net": 4,
+      "meo": "2 bàn tay nắm lấy nhau = bạn bè"
+    },
+    {
+      "id": 35,
+      "char": "白",
+      "onyomi": "ハク、ビャク",
+      "kunyomi": "しろ、しら",
+      "romaji": "haku, byaku / shiro, shira",
+      "nghia_vi": "trắng",
+      "vi_du": [
+        {"tu": "白い", "doc": "しろい", "nghia": "màu trắng"},
+        {"tu": "白黒", "doc": "しろくろ", "nghia": "đen trắng"},
+        {"tu": "白紙", "doc": "はくし", "nghia": "giấy trắng"}
+      ],
+      "so_net": 5,
+      "meo": "Mặt trời (日) với nét trên = ánh sáng trắng"
+    },
+    {
+      "id": 36,
+      "char": "百",
+      "onyomi": "ヒャク",
+      "kunyomi": "",
+      "romaji": "hyaku",
+      "nghia_vi": "một trăm",
+      "vi_du": [
+        {"tu": "百円", "doc": "ひゃくえん", "nghia": "100 yên"},
+        {"tu": "百貨店", "doc": "ひゃっかてん", "nghia": "trung tâm thương mại"},
+        {"tu": "三百", "doc": "さんびゃく", "nghia": "ba trăm"}
+      ],
+      "so_net": 6,
+      "meo": "Chữ 白 với nét ngang = trăm"
+    },
+    {
+      "id": 37,
+      "char": "千",
+      "onyomi": "セン",
+      "kunyomi": "ち",
+      "romaji": "sen / chi",
+      "nghia_vi": "một nghìn",
+      "vi_du": [
+        {"tu": "千円", "doc": "せんえん", "nghia": "1000 yên"},
+        {"tu": "三千", "doc": "さんぜん", "nghia": "ba nghìn"},
+        {"tu": "千葉", "doc": "ちば", "nghia": "Chiba (địa danh)"}
+      ],
+      "so_net": 3,
+      "meo": "Nét ngang + nét đứng cong = nghìn"
+    },
+    {
+      "id": 38,
+      "char": "万",
+      "onyomi": "マン、バン",
+      "kunyomi": "",
+      "romaji": "man, ban",
+      "nghia_vi": "mười nghìn",
+      "vi_du": [
+        {"tu": "一万円", "doc": "いちまんえん", "nghia": "10,000 yên"},
+        {"tu": "万年筆", "doc": "まんねんひつ", "nghia": "bút máy"},
+        {"tu": "万全", "doc": "ばんぜん", "nghia": "hoàn hảo"}
+      ],
+      "so_net": 3,
+      "meo": "Giống chữ 力 với nét ngang"
+    },
+    {
+      "id": 39,
+      "char": "円",
+      "onyomi": "エン",
+      "kunyomi": "まる",
+      "romaji": "en / maru",
+      "nghia_vi": "yên (tiền Nhật), tròn",
+      "vi_du": [
+        {"tu": "百円", "doc": "ひゃくえん", "nghia": "100 yên"},
+        {"tu": "円い", "doc": "まるい", "nghia": "tròn"},
+        {"tu": "円高", "doc": "えんだか", "nghia": "yên mạnh"}
+      ],
+      "so_net": 4,
+      "meo": "Hình tròn với nét trong"
+    },
+    {
+      "id": 40,
+      "char": "時",
+      "onyomi": "ジ",
+      "kunyomi": "とき",
+      "romaji": "ji / toki",
+      "nghia_vi": "thời gian, giờ",
+      "vi_du": [
+        {"tu": "時間", "doc": "じかん", "nghia": "thời gian"},
+        {"tu": "三時", "doc": "さんじ", "nghia": "3 giờ"},
+        {"tu": "時々", "doc": "ときどき", "nghia": "thỉnh thoảng"}
+      ],
+      "so_net": 10,
+      "meo": "Bộ 日 (mặt trời) + 寺 (chùa) = thời gian"
+    },
+    {
+      "id": 41,
+      "char": "分",
+      "onyomi": "ブン、フン",
+      "kunyomi": "わ",
+      "romaji": "bun, fun / wa",
+      "nghia_vi": "phút, phần",
+      "vi_du": [
+        {"tu": "五分", "doc": "ごふん", "nghia": "5 phút"},
+        {"tu": "自分", "doc": "じぶん", "nghia": "bản thân"},
+        {"tu": "半分", "doc": "はんぶん", "nghia": "một nửa"}
+      ],
+      "so_net": 4,
+      "meo": "Dao (刀) chia đôi = phân chia"
+    },
+    {
+      "id": 42,
+      "char": "半",
+      "onyomi": "ハン",
+      "kunyomi": "なか",
+      "romaji": "han / naka",
+      "nghia_vi": "nửa",
+      "vi_du": [
+        {"tu": "半分", "doc": "はんぶん", "nghia": "một nửa"},
+        {"tu": "一時半", "doc": "いちじはん", "nghia": "1 giờ rưỡi"},
+        {"tu": "半年", "doc": "はんとし", "nghia": "nửa năm"}
+      ],
+      "so_net": 5,
+      "meo": "Nét ngang cắt đôi = nửa"
+    },
+    {
+      "id": 43,
+      "char": "何",
+      "onyomi": "カ",
+      "kunyomi": "なに、なん",
+      "romaji": "ka / nani, nan",
+      "nghia_vi": "cái gì, bao nhiêu",
+      "vi_du": [
+        {"tu": "何時", "doc": "なんじ", "nghia": "mấy giờ"},
+        {"tu": "何人", "doc": "なんにん", "nghia": "mấy người"},
+        {"tu": "何か", "doc": "なにか", "nghia": "cái gì đó"}
+      ],
+      "so_net": 7,
+      "meo": "Bộ 人 + 可 = hỏi về người/vật"
+    },
+    {
+      "id": 44,
+      "char": "今",
+      "onyomi": "コン、キン",
+      "kunyomi": "いま",
+      "romaji": "kon, kin / ima",
+      "nghia_vi": "bây giờ, hiện tại",
+      "vi_du": [
+        {"tu": "今日", "doc": "きょう", "nghia": "hôm nay"},
+        {"tu": "今週", "doc": "こんしゅう", "nghia": "tuần này"},
+        {"tu": "今年", "doc": "ことし", "nghia": "năm nay"}
+      ],
+      "so_net": 4,
+      "meo": "Mái nhà với người ở dưới = hiện tại"
+    },
+    {
+      "id": 45,
+      "char": "行",
+      "onyomi": "コウ、ギョウ",
+      "kunyomi": "い、ゆ、おこな",
+      "romaji": "kou, gyou / i, yu, okona",
+      "nghia_vi": "đi, thực hiện",
+      "vi_du": [
+        {"tu": "行く", "doc": "いく", "nghia": "đi"},
+        {"tu": "旅行", "doc": "りょこう", "nghia": "du lịch"},
+        {"tu": "銀行", "doc": "ぎんこう", "nghia": "ngân hàng"}
+      ],
+      "so_net": 6,
+      "meo": "Ngã tư đường = đi lại"
+    },
+    {
+      "id": 46,
+      "char": "来",
+      "onyomi": "ライ",
+      "kunyomi": "く、き",
+      "romaji": "rai / ku, ki",
+      "nghia_vi": "đến, lai",
+      "vi_du": [
+        {"tu": "来る", "doc": "くる", "nghia": "đến"},
+        {"tu": "来年", "doc": "らいねん", "nghia": "năm sau"},
+        {"tu": "来週", "doc": "らいしゅう", "nghia": "tuần sau"}
+      ],
+      "so_net": 7,
+      "meo": "Lúa chín rũ xuống = thu hoạch/đến"
+    },
+    {
+      "id": 47,
+      "char": "見",
+      "onyomi": "ケン",
+      "kunyomi": "み",
+      "romaji": "ken / mi",
+      "nghia_vi": "nhìn, xem",
+      "vi_du": [
+        {"tu": "見る", "doc": "みる", "nghia": "nhìn, xem"},
+        {"tu": "見学", "doc": "けんがく", "nghia": "tham quan học hỏi"},
+        {"tu": "意見", "doc": "いけん", "nghia": "ý kiến"}
+      ],
+      "so_net": 7,
+      "meo": "Mắt (目) trên chân người = nhìn"
+    },
+    {
+      "id": 48,
+      "char": "食",
+      "onyomi": "ショク",
+      "kunyomi": "た、く",
+      "romaji": "shoku / ta, ku",
+      "nghia_vi": "ăn, thức ăn",
+      "vi_du": [
+        {"tu": "食べる", "doc": "たべる", "nghia": "ăn"},
+        {"tu": "食事", "doc": "しょくじ", "nghia": "bữa ăn"},
+        {"tu": "食堂", "doc": "しょくどう", "nghia": "phòng ăn"}
+      ],
+      "so_net": 9,
+      "meo": "Nắp bình + người = ăn uống"
+    },
+    {
+      "id": 49,
+      "char": "飲",
+      "onyomi": "イン",
+      "kunyomi": "の",
+      "romaji": "in / no",
+      "nghia_vi": "uống",
+      "vi_du": [
+        {"tu": "飲む", "doc": "のむ", "nghia": "uống"},
+        {"tu": "飲み物", "doc": "のみもの", "nghia": "đồ uống"},
+        {"tu": "飲食", "doc": "いんしょく", "nghia": "ăn uống"}
+      ],
+      "so_net": 12,
+      "meo": "Bộ 食 (ăn) + 欠 (thiếu, há miệng) = uống"
+    },
+    {
+      "id": 50,
+      "char": "読",
+      "onyomi": "ドク、トク",
+      "kunyomi": "よ",
+      "romaji": "doku, toku / yo",
+      "nghia_vi": "đọc",
+      "vi_du": [
+        {"tu": "読む", "doc": "よむ", "nghia": "đọc"},
+        {"tu": "読書", "doc": "どくしょ", "nghia": "đọc sách"},
+        {"tu": "読者", "doc": "どくしゃ", "nghia": "độc giả"}
+      ],
+      "so_net": 14,
+      "meo": "Bộ 言 (lời nói) + 売 = đọc"
+    },
+    {
+      "id": 51,
+      "char": "書",
+      "onyomi": "ショ",
+      "kunyomi": "か",
+      "romaji": "sho / ka",
+      "nghia_vi": "viết, sách",
+      "vi_du": [
+        {"tu": "書く", "doc": "かく", "nghia": "viết"},
+        {"tu": "教科書", "doc": "きょうかしょ", "nghia": "sách giáo khoa"},
+        {"tu": "図書館", "doc": "としょかん", "nghia": "thư viện"}
+      ],
+      "so_net": 10,
+      "meo": "Bút lông viết = viết"
+    },
+    {
+      "id": 52,
+      "char": "話",
+      "onyomi": "ワ",
+      "kunyomi": "はな、かた",
+      "romaji": "wa / hana, kata",
+      "nghia_vi": "nói chuyện, câu chuyện",
+      "vi_du": [
+        {"tu": "話す", "doc": "はなす", "nghia": "nói"},
+        {"tu": "電話", "doc": "でんわ", "nghia": "điện thoại"},
+        {"tu": "会話", "doc": "かいわ", "nghia": "hội thoại"}
+      ],
+      "so_net": 13,
+      "meo": "Bộ 言 (lời nói) + 舌 (lưỡi) = nói chuyện"
+    },
+    {
+      "id": 53,
+      "char": "聞",
+      "onyomi": "ブン、モン",
+      "kunyomi": "き",
+      "romaji": "bun, mon / ki",
+      "nghia_vi": "nghe, hỏi",
+      "vi_du": [
+        {"tu": "聞く", "doc": "きく", "nghia": "nghe, hỏi"},
+        {"tu": "新聞", "doc": "しんぶん", "nghia": "báo"},
+        {"tu": "見聞", "doc": "けんぶん", "nghia": "kiến văn"}
+      ],
+      "so_net": 14,
+      "meo": "Cửa (門) + tai (耳) = nghe qua cửa"
+    },
+    {
+      "id": 54,
+      "char": "出",
+      "onyomi": "シュツ、スイ",
+      "kunyomi": "で、だ",
+      "romaji": "shutsu, sui / de, da",
+      "nghia_vi": "ra, xuất",
+      "vi_du": [
+        {"tu": "出口", "doc": "でぐち", "nghia": "lối ra"},
+        {"tu": "出来る", "doc": "できる", "nghia": "có thể làm được"},
+        {"tu": "輸出", "doc": "ゆしゅつ", "nghia": "xuất khẩu"}
+      ],
+      "so_net": 5,
+      "meo": "Cây cỏ mọc ra khỏi đất = ra ngoài"
+    },
+    {
+      "id": 55,
+      "char": "入",
+      "onyomi": "ニュウ",
+      "kunyomi": "い、はい",
+      "romaji": "nyuu / i, hai",
+      "nghia_vi": "vào, nhập",
+      "vi_du": [
+        {"tu": "入口", "doc": "いりぐち", "nghia": "lối vào"},
+        {"tu": "入学", "doc": "にゅうがく", "nghia": "nhập học"},
+        {"tu": "輸入", "doc": "ゆにゅう", "nghia": "nhập khẩu"}
+      ],
+      "so_net": 2,
+      "meo": "Hình tam giác chỉ hướng vào = đi vào"
+    },
+    {
+      "id": 56,
+      "char": "右",
+      "onyomi": "ウ、ユウ",
+      "kunyomi": "みぎ",
+      "romaji": "u, yuu / migi",
+      "nghia_vi": "phải (hướng)",
+      "vi_du": [
+        {"tu": "右手", "doc": "みぎて", "nghia": "tay phải"},
+        {"tu": "右折", "doc": "うせつ", "nghia": "rẽ phải"},
+        {"tu": "左右", "doc": "さゆう", "nghia": "trái phải"}
+      ],
+      "so_net": 5,
+      "meo": "Tay cầm miệng = tay phải cầm đũa ăn"
+    },
+    {
+      "id": 57,
+      "char": "左",
+      "onyomi": "サ",
+      "kunyomi": "ひだり",
+      "romaji": "sa / hidari",
+      "nghia_vi": "trái (hướng)",
+      "vi_du": [
+        {"tu": "左手", "doc": "ひだりて", "nghia": "tay trái"},
+        {"tu": "左折", "doc": "させつ", "nghia": "rẽ trái"},
+        {"tu": "左右", "doc": "さゆう", "nghia": "trái phải"}
+      ],
+      "so_net": 5,
+      "meo": "Tay cầm thước = tay trái cầm thước"
+    },
+    {
+      "id": 58,
+      "char": "前",
+      "onyomi": "ゼン",
+      "kunyomi": "まえ",
+      "romaji": "zen / mae",
+      "nghia_vi": "trước, phía trước",
+      "vi_du": [
+        {"tu": "前に", "doc": "まえに", "nghia": "phía trước"},
+        {"tu": "午前", "doc": "ごぜん", "nghia": "buổi sáng (AM)"},
+        {"tu": "名前", "doc": "なまえ", "nghia": "tên"}
+      ],
+      "so_net": 9,
+      "meo": "Thuyền + dao = cắt tiến về phía trước"
+    },
+    {
+      "id": 59,
+      "char": "後",
+      "onyomi": "ゴ、コウ",
+      "kunyomi": "あと、うし",
+      "romaji": "go, kou / ato, ushi",
+      "nghia_vi": "sau, phía sau",
+      "vi_du": [
+        {"tu": "後で", "doc": "あとで", "nghia": "sau này"},
+        {"tu": "午後", "doc": "ごご", "nghia": "buổi chiều (PM)"},
+        {"tu": "最後", "doc": "さいご", "nghia": "cuối cùng"}
+      ],
+      "so_net": 9,
+      "meo": "Bộ 彳 (bước) + 幺 + 夂 = đi chậm phía sau"
+    },
+    {
+      "id": 60,
+      "char": "外",
+      "onyomi": "ガイ、ゲ",
+      "kunyomi": "そと、はず",
+      "romaji": "gai, ge / soto, hazu",
+      "nghia_vi": "ngoài, bên ngoài",
+      "vi_du": [
+        {"tu": "外国", "doc": "がいこく", "nghia": "nước ngoài"},
+        {"tu": "外出", "doc": "がいしゅつ", "nghia": "ra ngoài"},
+        {"tu": "案外", "doc": "あんがい", "nghia": "ngoài mong đợi"}
+      ],
+      "so_net": 5,
+      "meo": "Buổi tối (夕) + bói toán = ra ngoài"
+    },
+    {
+      "id": 61,
+      "char": "高",
+      "onyomi": "コウ",
+      "kunyomi": "たか",
+      "romaji": "kou / taka",
+      "nghia_vi": "cao, đắt",
+      "vi_du": [
+        {"tu": "高校", "doc": "こうこう", "nghia": "trường THPT"},
+        {"tu": "高い", "doc": "たかい", "nghia": "cao, đắt"},
+        {"tu": "最高", "doc": "さいこう", "nghia": "tốt nhất"}
+      ],
+      "so_net": 10,
+      "meo": "Hình tòa tháp cao = cao"
+    },
+    {
+      "id": 62,
+      "char": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす",
+      "romaji": "an / yasu",
+      "nghia_vi": "rẻ, yên tâm",
+      "vi_du": [
+        {"tu": "安い", "doc": "やすい", "nghia": "rẻ"},
+        {"tu": "安心", "doc": "あんしん", "nghia": "yên tâm"},
+        {"tu": "安全", "doc": "あんぜん", "nghia": "an toàn"}
+      ],
+      "so_net": 6,
+      "meo": "Mái nhà + phụ nữ = phụ nữ ở nhà = an toàn"
+    },
+    {
+      "id": 63,
+      "char": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら、あら",
+      "romaji": "shin / atara, ara",
+      "nghia_vi": "mới",
+      "vi_du": [
+        {"tu": "新しい", "doc": "あたらしい", "nghia": "mới"},
+        {"tu": "新聞", "doc": "しんぶん", "nghia": "báo"},
+        {"tu": "新幹線", "doc": "しんかんせん", "nghia": "tàu cao tốc"}
+      ],
+      "so_net": 13,
+      "meo": "Cây + rìu = đốn cây mới = mới"
+    },
+    {
+      "id": 64,
+      "char": "古",
+      "onyomi": "コ",
+      "kunyomi": "ふる",
+      "romaji": "ko / furu",
+      "nghia_vi": "cũ, cổ",
+      "vi_du": [
+        {"tu": "古い", "doc": "ふるい", "nghia": "cũ"},
+        {"tu": "古典", "doc": "こてん", "nghia": "cổ điển"},
+        {"tu": "中古", "doc": "ちゅうこ", "nghia": "đồ cũ"}
+      ],
+      "so_net": 5,
+      "meo": "Mười (十) + miệng (口) = 10 thế hệ = cũ"
+    },
+    {
+      "id": 65,
+      "char": "長",
+      "onyomi": "チョウ",
+      "kunyomi": "なが",
+      "romaji": "chou / naga",
+      "nghia_vi": "dài, trưởng",
+      "vi_du": [
+        {"tu": "長い", "doc": "ながい", "nghia": "dài"},
+        {"tu": "校長", "doc": "こうちょう", "nghia": "hiệu trưởng"},
+        {"tu": "成長", "doc": "せいちょう", "nghia": "trưởng thành"}
+      ],
+      "so_net": 8,
+      "meo": "Hình người già tóc dài = dài"
+    },
+    {
+      "id": 66,
+      "char": "毎",
+      "onyomi": "マイ",
+      "kunyomi": "",
+      "romaji": "mai",
+      "nghia_vi": "mỗi, mọi",
+      "vi_du": [
+        {"tu": "毎日", "doc": "まいにち", "nghia": "mỗi ngày"},
+        {"tu": "毎週", "doc": "まいしゅう", "nghia": "mỗi tuần"},
+        {"tu": "毎年", "doc": "まいとし", "nghia": "mỗi năm"}
+      ],
+      "so_net": 6,
+      "meo": "Mẹ (母) không có 2 chấm = mỗi"
+    },
+    {
+      "id": 67,
+      "char": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "romaji": "den",
+      "nghia_vi": "điện",
+      "vi_du": [
+        {"tu": "電車", "doc": "でんしゃ", "nghia": "tàu điện"},
+        {"tu": "電話", "doc": "でんわ", "nghia": "điện thoại"},
+        {"tu": "電気", "doc": "でんき", "nghia": "điện"}
+      ],
+      "so_net": 13,
+      "meo": "Mưa (雨) + sét (申) = sấm sét = điện"
+    },
+    {
+      "id": 68,
+      "char": "車",
+      "onyomi": "シャ",
+      "kunyomi": "くるま",
+      "romaji": "sha / kuruma",
+      "nghia_vi": "xe",
+      "vi_du": [
+        {"tu": "電車", "doc": "でんしゃ", "nghia": "tàu điện"},
+        {"tu": "自動車", "doc": "じどうしゃ", "nghia": "ô tô"},
+        {"tu": "駐車場", "doc": "ちゅうしゃじょう", "nghia": "bãi đỗ xe"}
+      ],
+      "so_net": 7,
+      "meo": "Hình xe nhìn từ trên xuống"
+    },
+    {
+      "id": 69,
+      "char": "気",
+      "onyomi": "キ、ケ",
+      "kunyomi": "",
+      "romaji": "ki, ke",
+      "nghia_vi": "khí, tinh thần, thời tiết",
+      "vi_du": [
+        {"tu": "天気", "doc": "てんき", "nghia": "thời tiết"},
+        {"tu": "電気", "doc": "でんき", "nghia": "điện"},
+        {"tu": "気持ち", "doc": "きもち", "nghia": "cảm giác"}
+      ],
+      "so_net": 6,
+      "meo": "Hơi nước bốc lên = khí"
+    },
+    {
+      "id": 70,
+      "char": "天",
+      "onyomi": "テン",
+      "kunyomi": "あめ、あま",
+      "romaji": "ten / ame, ama",
+      "nghia_vi": "trời, thiên",
+      "vi_du": [
+        {"tu": "天気", "doc": "てんき", "nghia": "thời tiết"},
+        {"tu": "天国", "doc": "てんごく", "nghia": "thiên đường"},
+        {"tu": "天才", "doc": "てんさい", "nghia": "thiên tài"}
+      ],
+      "so_net": 4,
+      "meo": "Người (大) với nét trên đầu = bầu trời"
+    },
+    {
+      "id": 71,
+      "char": "雨",
+      "onyomi": "ウ",
+      "kunyomi": "あめ、あま",
+      "romaji": "u / ame, ama",
+      "nghia_vi": "mưa",
+      "vi_du": [
+        {"tu": "雨天", "doc": "うてん", "nghia": "trời mưa"},
+        {"tu": "大雨", "doc": "おおあめ", "nghia": "mưa to"},
+        {"tu": "雨季", "doc": "うき", "nghia": "mùa mưa"}
+      ],
+      "so_net": 8,
+      "meo": "Mây + các giọt mưa rơi xuống"
+    },
+    {
+      "id": 72,
+      "char": "空",
+      "onyomi": "クウ",
+      "kunyomi": "そら、あ、から",
+      "romaji": "kuu / sora, a, kara",
+      "nghia_vi": "bầu trời, rỗng",
+      "vi_du": [
+        {"tu": "空気", "doc": "くうき", "nghia": "không khí"},
+        {"tu": "空港", "doc": "くうこう", "nghia": "sân bay"},
+        {"tu": "青空", "doc": "あおぞら", "nghia": "bầu trời xanh"}
+      ],
+      "so_net": 8,
+      "meo": "Hang (穴) + thợ (工) = trống rỗng như bầu trời"
+    },
+    {
+      "id": 73,
+      "char": "花",
+      "onyomi": "カ",
+      "kunyomi": "はな",
+      "romaji": "ka / hana",
+      "nghia_vi": "hoa",
+      "vi_du": [
+        {"tu": "花火", "doc": "はなび", "nghia": "pháo hoa"},
+        {"tu": "花見", "doc": "はなみ", "nghia": "ngắm hoa anh đào"},
+        {"tu": "花束", "doc": "はなたば", "nghia": "bó hoa"}
+      ],
+      "so_net": 7,
+      "meo": "Bộ cỏ (艹) + hóa (化) = hoa"
+    },
+    {
+      "id": 74,
+      "char": "林",
+      "onyomi": "リン",
+      "kunyomi": "はやし",
+      "romaji": "rin / hayashi",
+      "nghia_vi": "rừng nhỏ, họ Hayashi",
+      "vi_du": [
+        {"tu": "林業", "doc": "りんぎょう", "nghia": "lâm nghiệp"},
+        {"tu": "山林", "doc": "さんりん", "nghia": "núi rừng"},
+        {"tu": "林道", "doc": "りんどう", "nghia": "đường rừng"}
+      ],
+      "so_net": 8,
+      "meo": "2 cây (木) = rừng nhỏ"
+    },
+    {
+      "id": 75,
+      "char": "森",
+      "onyomi": "シン",
+      "kunyomi": "もり",
+      "romaji": "shin / mori",
+      "nghia_vi": "rừng lớn",
+      "vi_du": [
+        {"tu": "森林", "doc": "しんりん", "nghia": "rừng"},
+        {"tu": "森の中", "doc": "もりのなか", "nghia": "trong rừng"},
+        {"tu": "深森", "doc": "しんもり", "nghia": "rừng sâu"}
+      ],
+      "so_net": 12,
+      "meo": "3 cây (木) = rừng lớn"
+    },
+    {
+      "id": 76,
+      "char": "力",
+      "onyomi": "リョク、リキ",
+      "kunyomi": "ちから",
+      "romaji": "ryoku, riki / chikara",
+      "nghia_vi": "sức mạnh",
+      "vi_du": [
+        {"tu": "力持ち", "doc": "ちからもち", "nghia": "người khỏe mạnh"},
+        {"tu": "努力", "doc": "どりょく", "nghia": "nỗ lực"},
+        {"tu": "協力", "doc": "きょうりょく", "nghia": "hợp tác"}
+      ],
+      "so_net": 2,
+      "meo": "Hình bắp tay = sức mạnh"
+    },
+    {
+      "id": 77,
+      "char": "正",
+      "onyomi": "セイ、ショウ",
+      "kunyomi": "ただ、まさ",
+      "romaji": "sei, shou / tada, masa",
+      "nghia_vi": "đúng, chính xác",
+      "vi_du": [
+        {"tu": "正しい", "doc": "ただしい", "nghia": "đúng"},
+        {"tu": "正月", "doc": "しょうがつ", "nghia": "tháng Giêng, Tết"},
+        {"tu": "正直", "doc": "しょうじき", "nghia": "trung thực"}
+      ],
+      "so_net": 5,
+      "meo": "Dừng lại (止) dưới đường = đúng đường"
+    },
+    {
+      "id": 78,
+      "char": "立",
+      "onyomi": "リツ、リュウ",
+      "kunyomi": "た",
+      "romaji": "ritsu, ryuu / ta",
+      "nghia_vi": "đứng, lập",
+      "vi_du": [
+        {"tu": "立つ", "doc": "たつ", "nghia": "đứng"},
+        {"tu": "国立", "doc": "こくりつ", "nghia": "quốc lập"},
+        {"tu": "立場", "doc": "たちば", "nghia": "lập trường"}
+      ],
+      "so_net": 5,
+      "meo": "Người đứng trên mặt đất = đứng"
+    },
+    {
+      "id": 79,
+      "char": "休",
+      "onyomi": "キュウ",
+      "kunyomi": "やす",
+      "romaji": "kyuu / yasu",
+      "nghia_vi": "nghỉ ngơi",
+      "vi_du": [
+        {"tu": "休む", "doc": "やすむ", "nghia": "nghỉ"},
+        {"tu": "休日", "doc": "きゅうじつ", "nghia": "ngày nghỉ"},
+        {"tu": "夏休み", "doc": "なつやすみ", "nghia": "nghỉ hè"}
+      ],
+      "so_net": 6,
+      "meo": "Người (人) tựa vào cây (木) = nghỉ ngơi"
+    },
+    {
+      "id": 80,
+      "char": "校",
+      "onyomi": "コウ",
+      "kunyomi": "",
+      "romaji": "kou",
+      "nghia_vi": "trường học",
+      "vi_du": [
+        {"tu": "学校", "doc": "がっこう", "nghia": "trường học"},
+        {"tu": "高校", "doc": "こうこう", "nghia": "trường THPT"},
+        {"tu": "校長", "doc": "こうちょう", "nghia": "hiệu trưởng"}
+      ],
+      "so_net": 10,
+      "meo": "Cây (木) + giao (交) = trường học"
+    }
+  ]
+}
